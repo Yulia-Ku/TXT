@@ -1,0 +1,4 @@
+1) terminal
+2) JS
+3) git
+
